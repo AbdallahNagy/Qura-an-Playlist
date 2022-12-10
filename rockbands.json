@@ -1,0 +1,71 @@
+{
+	"Alafasy" :
+	 [
+		{
+			"name" : "Surat Hud",
+			"value" : "https://www.youtube.com/watch?v=Hp_BLSeheoc"
+		},
+		{
+			"name" : "Surat Ya-Seen",
+			"value" : "https://www.youtube.com/watch?v=4-dEn8oGGUs"
+			
+		},
+		{
+			"name" : "Surat Al-Baqarah",
+			"value" : "https://www.youtube.com/watch?v=Y1M6hJHHrjM"
+		},
+		{
+			"name" : "Surat Maryam",
+			"value" : "https://www.youtube.com/watch?v=4pQT8HW3b3E"
+		}
+	],
+	"Mansour El-Salmi" : 
+	[
+		{
+			"name" : "Surat Al-Baqarah",
+			"value" : "https://www.youtube.com/watch?v=H6_dQBT0T4g"
+		},
+		{
+			"name" : "Sutat Al-Ensan",
+			"value" : "https://www.youtube.com/watch?v=6zVAlNErEbQ"
+		},
+		{
+			"name" : "Sutat Al-Qiama",
+			"value" : "https://www.youtube.com/watch?v=fZAoe7R28Ow"
+		},
+		{
+			"name" : "Sutat Qaf",
+			"value" : "https://www.youtube.com/watch?v=C4cH1V3xBMk"
+		}
+	],
+	"Yasser Al-Dosari" : [
+		{
+			"name" : "Surat Yusuf",
+			"value" : "https://www.youtube.com/watch?v=S6vYtsmKd3Y"
+		},
+		{
+			"name" : "Surat Ya-Seen",
+			"value" : "https://www.youtube.com/watch?v=2y-t9HSN9gA"
+			
+		},
+		{
+			"name" : "Surat Al-Taubah",
+			"value" : "https://www.youtube.com/watch?v=21ChIdM9snc"
+		}
+	],
+	"Al-Qatami" : [
+		{
+			"name" : "Surat Taha",
+			"value" : "https://www.youtube.com/watch?v=mgYYY3FqFdo"
+		},
+		{
+			"name" : "Surah Al-Haqqah",
+			"value" : "https://www.youtube.com/watch?v=ddtgDqATXBg"
+			
+		},
+		{
+			"name" : "Surat Saba'a",
+			"value" : "https://www.youtube.com/watch?v=ytDBZW-1K50"
+		}
+	]
+}
